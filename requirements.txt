@@ -1,0 +1,10 @@
+# Core dependencies
+# Generated: 2026-02-22
+
+# Standard library modules (no install needed):
+# logging, argparse, pathlib, dataclasses, json, csv
+
+# CLI and display:
+# click>=8.1.7
+# rich>=13.7.0
+# python-dotenv>=1.0.0
